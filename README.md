@@ -1,8 +1,8 @@
-# Lab 4 - *Name of App Here*
+# Lab 4 - Chat-N-Out
 
-**Name of your app** is a Chat app using an [open source Parse](http://parseplatform.org/) backend.
+Chat-N-Out is a Chat app using an [open source Parse](http://parseplatform.org/) backend.
 
-Time spent: **X** hours spent in total
+Time spent: 10 hours spent in total
 
 ## User Stories
 
